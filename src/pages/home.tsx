@@ -12,8 +12,8 @@ import img1b from "@assets/image_1783057709287.png";
 import img1c from "@assets/image_1783057768885.png";
 import img2new from "@assets/image_1783059344855.png";
 import img3new from "@assets/image_1783059837867.png";
-import cloudImg from "@assets/generated_images/whipped_cream_cloud_nobg.png";
-import handsImg from "@assets/generated_images/hands_bracelet_nobg.png";
+import cloudImg from "@assets/whipped_cream_cloud_nobg.png";
+import handsImg from "@assets/hands_bracelet_nobg.png";
 
 // =============================================================================
 // IMAGES — swap src values here to add your own photos
